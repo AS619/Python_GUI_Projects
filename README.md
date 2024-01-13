@@ -10,4 +10,5 @@ My python projects are in here.
 (02) Project 02 - WhiteBoard📝
 
 
-![Whiteboard](https://github.com/AS619/Python_Projects/assets/137033424/0df1a7b0-41da-428b-b82c-bf2f7df17292)
+
+![Whiteboard](https://github.com/AS619/Python_Projects/assets/137033424/a9f43894-7e60-454d-b04f-d8c8ebc2faa5)
