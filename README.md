@@ -1,4 +1,4 @@
-# Python_Projects🚀
+# Python_GUI_Projects🚀
 My python projects are in here.
 
 (01) Project 01 - Calculator🧮
